@@ -16,5 +16,7 @@
     {"name":"타임라인","order":8,"path":"folders/타임라인.yy",},
     {"name":"확장","order":14,"path":"folders/확장.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+  ],
 }
