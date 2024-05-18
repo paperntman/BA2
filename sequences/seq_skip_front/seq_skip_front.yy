@@ -1,6 +1,6 @@
 {
   "$GMSequence":"",
-  "%Name":"seq_skip",
+  "%Name":"seq_skip_front",
   "autoRecord":true,
   "backdropHeight":1080,
   "backdropImageOpacity":0.5,
@@ -30,7 +30,7 @@
     "resourceType":"KeyframeStore<MomentsEventKeyframe>",
     "resourceVersion":"2.0",
   },
-  "name":"seq_skip",
+  "name":"seq_skip_front",
   "parent":{
     "name":"시퀀스",
     "path":"folders/시퀀스.yy",
@@ -47,7 +47,7 @@
   "tracks":[
     {"$GMGraphicTrack":"","%Name":"Sprite1","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<AssetSpriteKeyframe>":"","Keyframes":[
           {"$Keyframe<AssetSpriteKeyframe>":"","Channels":{
-              "0":{"$AssetSpriteKeyframe":"","Id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"resourceType":"AssetSpriteKeyframe","resourceVersion":"2.0",},
+              "0":{"$AssetSpriteKeyframe":"","Id":{"name":"spr_topen_black","path":"sprites/spr_topen_black/spr_topen_black.yy",},"resourceType":"AssetSpriteKeyframe","resourceVersion":"2.0",},
             },"Disabled":false,"id":"a92eaa9b-bd71-47d4-bd6d-6cf2c87db6a3","IsCreationKey":false,"Key":0.0,"Length":60.0,"resourceType":"Keyframe<AssetSpriteKeyframe>","resourceVersion":"2.0","Stretch":false,},
         ],"resourceType":"KeyframeStore<AssetSpriteKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"Sprite1","resourceType":"GMGraphicTrack","resourceVersion":"2.0","trackColour":4282941170,"tracks":[
         {"$GMRealTrack":"","%Name":"origin","builtinName":16,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":true,"keyframes":{"$KeyframeStore<RealKeyframe>":"","Keyframes":[

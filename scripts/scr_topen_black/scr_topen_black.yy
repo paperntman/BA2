@@ -1,9 +1,9 @@
 {
   "$GMScript":"",
-  "%Name":"Script1",
+  "%Name":"scr_topen_black",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Script1",
+  "name":"scr_topen_black",
   "parent":{
     "name":"스크립트",
     "path":"folders/스크립트.yy",

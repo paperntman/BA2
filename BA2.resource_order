@@ -17,6 +17,7 @@
     {"name":"확장","order":14,"path":"folders/확장.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"obj_topen_black","order":1,"path":"objects/obj_topen_black/obj_topen_black.yy",},
+    {"name":"room_topen_2","order":1,"path":"rooms/room_topen_2/room_topen_2.yy",},
   ],
 }
