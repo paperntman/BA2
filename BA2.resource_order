@@ -19,5 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_topen_black","order":1,"path":"objects/obj_topen_black/obj_topen_black.yy",},
     {"name":"room_topen_2","order":1,"path":"rooms/room_topen_2/room_topen_2.yy",},
+    {"name":"seq_skip_front","order":2,"path":"sequences/seq_skip_front/seq_skip_front.yy",},
+    {"name":"seq_skip_back","order":3,"path":"sequences/seq_skip_back/seq_skip_back.yy",},
   ],
 }

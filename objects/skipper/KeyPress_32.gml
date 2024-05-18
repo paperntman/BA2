@@ -1,1 +1,1 @@
-global.start_animation(seq_skip, depth, x, y, 1.92)
+global.start_animation(seq_skip_front, depth)

@@ -2,10 +2,10 @@ active_animation = -1;
 sequence_layer = -1;
 active_sequence = -1;
 
-global.start_animation = function (_sequence, _depth, _x, _y, _image_xscale) {
+global.start_animation = function (_sequence, _depth) {
 	active_animation = _sequence;
 	sequence_layer = layer_create(_depth);
-	active_sequence = layer_sequence_create(sequence_layer, 1920, 1080, _sequence);
+	active_sequence = layer_sequence_create(sequence_layer, 0,0, _sequence);
 }
 
 

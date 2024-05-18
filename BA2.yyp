@@ -40,6 +40,7 @@
     {"id":{"name":"room_topen_2","path":"rooms/room_topen_2/room_topen_2.yy",},},
     {"id":{"name":"scr_topen_black","path":"scripts/scr_topen_black/scr_topen_black.yy",},},
     {"id":{"name":"seq_skip_front","path":"sequences/seq_skip_front/seq_skip_front.yy",},},
+    {"id":{"name":"seq_skip_back","path":"sequences/seq_skip_back/seq_skip_back.yy",},},
     {"id":{"name":"spr_topen_black","path":"sprites/spr_topen_black/spr_topen_black.yy",},},
   ],
   "resourceType":"GMProject",
