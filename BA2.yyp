@@ -23,6 +23,7 @@
     {"$GMFolder":"","%Name":"display","folderPath":"folders/스프라이트/display.yy","name":"display","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"player","folderPath":"folders/스프라이트/player.yy","name":"player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"UI","folderPath":"folders/스프라이트/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"town","folderPath":"folders/스프라이트/town.yy","name":"town","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"시퀀스","folderPath":"folders/시퀀스.yy","name":"시퀀스","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"애니메이션 곡선","folderPath":"folders/애니메이션 곡선.yy","name":"애니메이션 곡선","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"오브젝트","folderPath":"folders/오브젝트.yy","name":"오브젝트","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,7 +35,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"BA2",
   "resources":[
@@ -48,6 +49,7 @@
     {"id":{"name":"spr_player_run","path":"sprites/spr_player_run/spr_player_run.yy",},},
     {"id":{"name":"spr_start_background","path":"sprites/spr_start_background/spr_start_background.yy",},},
     {"id":{"name":"spr_start_logo","path":"sprites/spr_start_logo/spr_start_logo.yy",},},
+    {"id":{"name":"spr_town_background","path":"sprites/spr_town_background/spr_town_background.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
