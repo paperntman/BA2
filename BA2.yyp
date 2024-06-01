@@ -19,9 +19,19 @@
     {"$GMFolder":"","%Name":"셰이더","folderPath":"folders/셰이더.yy","name":"셰이더","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"스크립트","folderPath":"folders/스크립트.yy","name":"스크립트","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"스프라이트","folderPath":"folders/스프라이트.yy","name":"스프라이트","resourceType":"GMFolder","resourceVersion":"2.0",},
+<<<<<<< Updated upstream
+=======
+    {"$GMFolder":"","%Name":"background","folderPath":"folders/스프라이트/background.yy","name":"background","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"display","folderPath":"folders/스프라이트/display.yy","name":"display","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"platformer","folderPath":"folders/스프라이트/platformer.yy","name":"platformer","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"player","folderPath":"folders/스프라이트/player.yy","name":"player","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"UI","folderPath":"folders/스프라이트/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
     {"$GMFolder":"","%Name":"시퀀스","folderPath":"folders/시퀀스.yy","name":"시퀀스","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"애니메이션 곡선","folderPath":"folders/애니메이션 곡선.yy","name":"애니메이션 곡선","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"오브젝트","folderPath":"folders/오브젝트.yy","name":"오브젝트","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"platformer","folderPath":"folders/오브젝트/platformer.yy","name":"platformer","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"entities","folderPath":"folders/오브젝트/entities.yy","name":"entities","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"타일 세트","folderPath":"folders/타일 세트.yy","name":"타일 세트","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"타임라인","folderPath":"folders/타임라인.yy","name":"타임라인","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"확장","folderPath":"folders/확장.yy","name":"확장","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,7 +44,25 @@
   },
   "name":"BA2",
   "resources":[
+<<<<<<< Updated upstream
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+=======
+    {"id":{"name":"obj_ground_1","path":"objects/obj_ground_1/obj_ground_1.yy",},},
+    {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_start_button","path":"objects/obj_start_button/obj_start_button.yy",},},
+    {"id":{"name":"rm_bar","path":"rooms/rm_bar/rm_bar.yy",},},
+    {"id":{"name":"rm_field1","path":"rooms/rm_field1/rm_field1.yy",},},
+    {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
+    {"id":{"name":"rm_town","path":"rooms/rm_town/rm_town.yy",},},
+    {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
+    {"id":{"name":"spr_ground_1","path":"sprites/spr_ground_1/spr_ground_1.yy",},},
+    {"id":{"name":"spr_player_idle","path":"sprites/spr_player_idle/spr_player_idle.yy",},},
+    {"id":{"name":"spr_player_run","path":"sprites/spr_player_run/spr_player_run.yy",},},
+    {"id":{"name":"spr_start_background","path":"sprites/spr_start_background/spr_start_background.yy",},},
+    {"id":{"name":"spr_start_logo","path":"sprites/spr_start_logo/spr_start_logo.yy",},},
+    {"id":{"name":"spr_town_background","path":"sprites/spr_town_background/spr_town_background.yy",},},
+>>>>>>> Stashed changes
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -9,12 +9,33 @@
     {"name":"셰이더","order":6,"path":"folders/셰이더.yy",},
     {"name":"스크립트","order":5,"path":"folders/스크립트.yy",},
     {"name":"스프라이트","order":1,"path":"folders/스프라이트.yy",},
+<<<<<<< Updated upstream
+=======
+    {"name":"background","order":5,"path":"folders/스프라이트/background.yy",},
+    {"name":"display","order":2,"path":"folders/스프라이트/display.yy",},
+    {"name":"platformer","order":6,"path":"folders/스프라이트/platformer.yy",},
+    {"name":"player","order":1,"path":"folders/스프라이트/player.yy",},
+    {"name":"UI","order":4,"path":"folders/스프라이트/UI.yy",},
+>>>>>>> Stashed changes
     {"name":"시퀀스","order":11,"path":"folders/시퀀스.yy",},
     {"name":"애니메이션 곡선","order":12,"path":"folders/애니메이션 곡선.yy",},
     {"name":"오브젝트","order":9,"path":"folders/오브젝트.yy",},
+    {"name":"platformer","order":2,"path":"folders/오브젝트/platformer.yy",},
+    {"name":"entities","order":3,"path":"folders/오브젝트/entities.yy",},
     {"name":"타일 세트","order":2,"path":"folders/타일 세트.yy",},
     {"name":"타임라인","order":8,"path":"folders/타임라인.yy",},
     {"name":"확장","order":14,"path":"folders/확장.yy",},
   ],
+<<<<<<< Updated upstream
   "ResourceOrderSettings":[],
+=======
+  "ResourceOrderSettings":[
+    {"name":"obj_ground_1","order":1,"path":"objects/obj_ground_1/obj_ground_1.yy",},
+    {"name":"obj_start_button","order":1,"path":"objects/obj_start_button/obj_start_button.yy",},
+    {"name":"rm_bar","order":2,"path":"rooms/rm_bar/rm_bar.yy",},
+    {"name":"rm_town","order":1,"path":"rooms/rm_town/rm_town.yy",},
+    {"name":"spr_player_run","order":1,"path":"sprites/spr_player_run/spr_player_run.yy",},
+    {"name":"spr_start_logo","order":1,"path":"sprites/spr_start_logo/spr_start_logo.yy",},
+  ],
+>>>>>>> Stashed changes
 }
