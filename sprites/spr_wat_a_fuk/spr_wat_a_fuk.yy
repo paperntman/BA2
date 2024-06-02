@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_wat_a_fuk",
   "bboxMode":0,
-  "bbox_bottom":119,
-  "bbox_left":120,
-  "bbox_right":359,
+  "bbox_bottom":11,
+  "bbox_left":12,
+  "bbox_right":35,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":120,
+  "height":12,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"9f0db6fd-9feb-4bd7-b5c1-86e7e4936f8f","blendMode":0,"displayName":"default","isLocked":false,"name":"9f0db6fd-9feb-4bd7-b5c1-86e7e4936f8f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":360,
+  "width":36,
 }

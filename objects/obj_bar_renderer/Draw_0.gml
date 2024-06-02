@@ -10,7 +10,6 @@ for (var _tx = 0; _tx < MAP_W; _tx++){
 		
 		if ( _tileindex > 0) {
 			draw_sprite(spr_isometric_test, _tileindex-1, _screenx, _screeny + _tilez)
-			show_debug_message(_tileindex)
 		}
 		
 	}
