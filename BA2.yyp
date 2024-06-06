@@ -48,6 +48,7 @@
   "resources":[
     {"id":{"name":"obj_bar_renderer","path":"objects/obj_bar_renderer/obj_bar_renderer.yy",},},
     {"id":{"name":"obj_ground_1","path":"objects/obj_ground_1/obj_ground_1.yy",},},
+    {"id":{"name":"obj_ground_override","path":"objects/obj_ground_override/obj_ground_override.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_start_button","path":"objects/obj_start_button/obj_start_button.yy",},},
@@ -72,9 +73,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_bar","path":"rooms/rm_bar/rm_bar.yy",},},
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_town","path":"rooms/rm_town/rm_town.yy",},},
+    {"roomId":{"name":"rm_bar","path":"rooms/rm_bar/rm_bar.yy",},},
     {"roomId":{"name":"rm_field1","path":"rooms/rm_field1/rm_field1.yy",},},
   ],
   "templateType":"game",

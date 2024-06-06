@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_start_button",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":56,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_ground_override",
+  "eventList":[],
   "managed":true,
-  "name":"obj_start_button",
+  "name":"obj_ground_override",
   "overriddenProperties":[],
   "parent":{
-    "name":"오브젝트",
-    "path":"folders/오브젝트.yy",
+    "name":"platformer",
+    "path":"folders/스프라이트/platformer.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_button",
-    "path":"sprites/spr_button/spr_button.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

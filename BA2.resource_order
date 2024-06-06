@@ -30,6 +30,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_ground_1","order":1,"path":"objects/obj_ground_1/obj_ground_1.yy",},
+    {"name":"obj_ground_override","order":1,"path":"objects/obj_ground_override/obj_ground_override.yy",},
     {"name":"obj_start_button","order":1,"path":"objects/obj_start_button/obj_start_button.yy",},
     {"name":"rm_bar","order":2,"path":"rooms/rm_bar/rm_bar.yy",},
     {"name":"rm_town","order":1,"path":"rooms/rm_town/rm_town.yy",},
